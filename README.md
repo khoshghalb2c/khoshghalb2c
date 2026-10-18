@@ -102,10 +102,10 @@ My vision is to build practical software that makes users' lives easier and more
 </p>
 
 <p align="center">
-  <img src="assets/cardbank/screenshot-1.png" width="23%" alt="CardBank screenshot 1"/>
-  <img src="assets/cardbank/screenshot-2.png" width="23%" alt="CardBank screenshot 2"/>
-  <img src="assets/cardbank/screenshot-3.png" width="23%" alt="CardBank screenshot 3"/>
-  <img src="assets/cardbank/screenshot-4.png" width="23%" alt="CardBank screenshot 4"/>
+  <img src="assets/cardbank/screenshot-1.jpg" width="23%" alt="CardBank screenshot 1"/>
+  <img src="assets/cardbank/screenshot-2.jpg" width="23%" alt="CardBank screenshot 2"/>
+  <img src="assets/cardbank/screenshot-3.jpg" width="23%" alt="CardBank screenshot 3"/>
+  <img src="assets/cardbank/screenshot-4.jpg" width="23%" alt="CardBank screenshot 4"/>
 </p>
 
 **Role:** Sole Developer &amp; Product Owner<br>
