@@ -21,6 +21,12 @@
 <p align="center">
   <a href="https://khoshghalb2c.ir"><img src="https://img.shields.io/badge/Portfolio-khoshghalb2c.ir-0A3EB5?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjZmZmIiBzdHJva2Utd2lkdGg9IjIiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCI%2BPGNpcmNsZSBjeD0iMTIiIGN5PSIxMiIgcj0iOSIvPjxwYXRoIGQ9Ik0zIDEyaDE4TTEyIDNjMyAzIDMgMTUgMCAxOE0xMiAzYy0zIDMtMyAxNSAwIDE4Ii8%2BPC9zdmc%2B" alt="Portfolio"/></a>
   <a href="https://quera.org/profile/khoshghalb2c"><img src="https://img.shields.io/badge/Quera-khoshghalb2c-2E7D32?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjZmZmIiBzdHJva2Utd2lkdGg9IjIuNiIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIj48Y2lyY2xlIGN4PSIxMSIgY3k9IjExIiByPSI3Ii8%2BPHBhdGggZD0iTTE2IDE2bDUgNSIvPjwvc3ZnPg%3D%3D" alt="Quera"/></a>
+  <a href="https://t.me/khoshghalb2c"><img src="https://img.shields.io/badge/Telegram-%40KHOSHGHALB2C-26A5E4?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjZmZmIiBzdHJva2Utd2lkdGg9IjIiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCI%2BPHBhdGggZD0iTTIyIDJMMTEgMTMiLz48cGF0aCBkPSJNMjIgMmwtNyAyMC00LTktOS00eiIvPjwvc3ZnPg%3D%3D" alt="Telegram"/></a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/khoshghalb2c/khoshghalb2c/raw/HEAD/resume/Abolfazl-Khoshghalb-Resume-Android-Web.pdf"><img src="https://img.shields.io/badge/Resume%20%28PDF%29-Android%20%26%20Web-C62828?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjZmZmIiBzdHJva2Utd2lkdGg9IjIiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCI%2BPHBhdGggZD0iTTE0IDNIN2EyIDIgMCAwIDAtMiAydjE0YTIgMiAwIDAgMCAyIDJoMTBhMiAyIDAgMCAwIDItMlY4eiIvPjxwYXRoIGQ9Ik0xNCAzdjVoNU05IDEzaDZNOSAxN2g2Ii8%2BPC9zdmc%2B" alt="Download resume: Android and Web"/></a>
+  <a href="https://github.com/khoshghalb2c/khoshghalb2c/raw/HEAD/resume/Abolfazl-Khoshghalb-Resume-Android.pdf"><img src="https://img.shields.io/badge/Resume%20%28PDF%29-Android%20Developer-C62828?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjZmZmIiBzdHJva2Utd2lkdGg9IjIiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCI%2BPHBhdGggZD0iTTE0IDNIN2EyIDIgMCAwIDAtMiAydjE0YTIgMiAwIDAgMCAyIDJoMTBhMiAyIDAgMCAwIDItMlY4eiIvPjxwYXRoIGQ9Ik0xNCAzdjVoNU05IDEzaDZNOSAxN2g2Ii8%2BPC9zdmc%2B" alt="Download resume: Android Developer"/></a>
 </p>
 
 ---
@@ -49,7 +55,8 @@ My vision is to build practical software that makes users' lives easier and more
 ### 📱 Mobile Development
 
 <p>
-  <img src="https://skillicons.dev/icons?i=androidstudio,java,kotlin,sqlite" alt="Android Studio, Java, Kotlin, SQLite"/>
+  <img src="https://skillicons.dev/icons?i=androidstudio,java,kotlin,sqlite,gradle,maven" alt="Android Studio, Java, Kotlin, SQLite"/>
+  <br/>
   <img src="https://img.shields.io/badge/XML-Layouts-E34F26?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjZmZmIiBzdHJva2Utd2lkdGg9IjIiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCI%2BPHBvbHlsaW5lIHBvaW50cz0iOCw2IDIsMTIgOCwxOCIvPjxwb2x5bGluZSBwb2ludHM9IjE2LDYgMjIsMTIgMTYsMTgiLz48bGluZSB4MT0iMTQiIHkxPSI0IiB4Mj0iMTAiIHkyPSIyMCIvPjwvc3ZnPg%3D%3D" alt="XML"/>
   <img src="https://img.shields.io/badge/Material-Design-757575?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjZmZmIiBzdHJva2Utd2lkdGg9IjIiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCI%2BPHJlY3QgeD0iMyIgeT0iMyIgd2lkdGg9IjE4IiBoZWlnaHQ9IjE4IiByeD0iMyIvPjxjaXJjbGUgY3g9IjkiIGN5PSI5IiByPSIyLjUiLz48cG9seWdvbiBwb2ludHM9IjExLDE5IDE5LDE5IDE1LDEyIi8%2BPC9zdmc%2B" alt="Material"/>
   <img src="https://img.shields.io/badge/REST%20API-Retrofit%20%2F%20Volley-3DDC84?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjZmZmIiBzdHJva2Utd2lkdGg9IjIiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCI%2BPHBhdGggZD0iTTMgOGgxNk0xNSA0bDQgNC00IDQiLz48cGF0aCBkPSJNMjEgMTZINU05IDEybC00IDQgNCA0Ii8%2BPC9zdmc%2B" alt="REST API"/>
@@ -77,7 +84,7 @@ My vision is to build practical software that makes users' lives easier and more
 ### 🛠️ Development Tools
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github" alt="Git, GitHub"/>
+  <img src="https://skillicons.dev/icons?i=github,cloudflare,vscode,idea,postman" alt="Git, GitHub"/>
 </p>
 
 ---
@@ -106,10 +113,10 @@ My vision is to build practical software that makes users' lives easier and more
 </p>
 
 <p align="center">
-  <img src="assets/cardbank/screenshot-1.jpg" width="23%" alt="CardBank screenshot 1"/>
-  <img src="assets/cardbank/screenshot-2.jpg" width="23%" alt="CardBank screenshot 2"/>
-  <img src="assets/cardbank/screenshot-3.jpg" width="23%" alt="CardBank screenshot 3"/>
-  <img src="assets/cardbank/screenshot-4.jpg" width="23%" alt="CardBank screenshot 4"/>
+  <img src="assets/cardbank/screenshot-1.png" width="23%" alt="CardBank screenshot 1"/>
+  <img src="assets/cardbank/screenshot-2.png" width="23%" alt="CardBank screenshot 2"/>
+  <img src="assets/cardbank/screenshot-3.png" width="23%" alt="CardBank screenshot 3"/>
+  <img src="assets/cardbank/screenshot-4.png" width="23%" alt="CardBank screenshot 4"/>
 </p>
 
 **Role:** Sole Developer &amp; Product Owner<br>
@@ -163,6 +170,12 @@ I'm open to collaboration, new ideas, and interesting Android and web projects.
 <p>
   <a href="https://khoshghalb2c.ir"><img src="https://img.shields.io/badge/Portfolio-khoshghalb2c.ir-0A3EB5?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjZmZmIiBzdHJva2Utd2lkdGg9IjIiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCI%2BPGNpcmNsZSBjeD0iMTIiIGN5PSIxMiIgcj0iOSIvPjxwYXRoIGQ9Ik0zIDEyaDE4TTEyIDNjMyAzIDMgMTUgMCAxOE0xMiAzYy0zIDMtMyAxNSAwIDE4Ii8%2BPC9zdmc%2B" alt="Portfolio"/></a>
   <a href="https://quera.org/profile/khoshghalb2c"><img src="https://img.shields.io/badge/Quera-khoshghalb2c-2E7D32?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjZmZmIiBzdHJva2Utd2lkdGg9IjIuNiIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIj48Y2lyY2xlIGN4PSIxMSIgY3k9IjExIiByPSI3Ii8%2BPHBhdGggZD0iTTE2IDE2bDUgNSIvPjwvc3ZnPg%3D%3D" alt="Quera"/></a>
+  <a href="https://t.me/YOUR_TELEGRAM_USERNAME"><img src="https://img.shields.io/badge/Telegram-%40YOUR__TELEGRAM__USERNAME-26A5E4?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjZmZmIiBzdHJva2Utd2lkdGg9IjIiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCI%2BPHBhdGggZD0iTTIyIDJMMTEgMTMiLz48cGF0aCBkPSJNMjIgMmwtNyAyMC00LTktOS00eiIvPjwvc3ZnPg%3D%3D" alt="Telegram"/></a>
+</p>
+
+<p>
+  <a href="https://github.com/khoshghalb2c/khoshghalb2c/raw/HEAD/resume/Abolfazl-Khoshghalb-Resume-Android-Web.pdf"><img src="https://img.shields.io/badge/Resume%20%28PDF%29-Android%20%26%20Web-C62828?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjZmZmIiBzdHJva2Utd2lkdGg9IjIiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCI%2BPHBhdGggZD0iTTE0IDNIN2EyIDIgMCAwIDAtMiAydjE0YTIgMiAwIDAgMCAyIDJoMTBhMiAyIDAgMCAwIDItMlY4eiIvPjxwYXRoIGQ9Ik0xNCAzdjVoNU05IDEzaDZNOSAxN2g2Ii8%2BPC9zdmc%2B" alt="Download resume: Android and Web"/></a>
+  <a href="https://github.com/khoshghalb2c/khoshghalb2c/raw/HEAD/resume/Abolfazl-Khoshghalb-Resume-Android.pdf"><img src="https://img.shields.io/badge/Resume%20%28PDF%29-Android%20Developer-C62828?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjZmZmIiBzdHJva2Utd2lkdGg9IjIiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCI%2BPHBhdGggZD0iTTE0IDNIN2EyIDIgMCAwIDAtMiAydjE0YTIgMiAwIDAgMCAyIDJoMTBhMiAyIDAgMCAwIDItMlY4eiIvPjxwYXRoIGQ9Ik0xNCAzdjVoNU05IDEzaDZNOSAxN2g2Ii8%2BPC9zdmc%2B" alt="Download resume: Android Developer"/></a>
 </p>
 
 📧 khoshghalb2c@gmail.com
