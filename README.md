@@ -7,15 +7,19 @@
 </h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Based%20in-Mashhad%2C%20Iran-0A3EB5?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location"/>
-  <img src="https://img.shields.io/badge/Experience-5%2B%20Years-0A3EB5?style=for-the-badge&logo=android&logoColor=white" alt="Experience"/>
+  <img src="https://img.shields.io/badge/Based%20in-Mashhad%2C%20Iran-0A3EB5?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjZmZmIiBzdHJva2Utd2lkdGg9IjIiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCI%2BPHBhdGggZD0iTTEyIDIxcy03LTYuMi03LTExYTcgNyAwIDAgMSAxNCAwYzAgNC44LTcgMTEtNyAxMXoiLz48Y2lyY2xlIGN4PSIxMiIgY3k9IjEwIiByPSIyLjUiLz48L3N2Zz4%3D" alt="Based in"/>
+  <img src="https://img.shields.io/badge/Experience-5%2B%20Years-0A3EB5?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjZmZmIiBzdHJva2Utd2lkdGg9IjIiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCI%2BPHJlY3QgeD0iMyIgeT0iNyIgd2lkdGg9IjE4IiBoZWlnaHQ9IjEzIiByeD0iMiIvPjxwYXRoIGQ9Ik05IDdWNWEyIDIgMCAwIDEgMi0yaDJhMiAyIDAgMCAxIDIgMnYyTTMgMTNoMTgiLz48L3N2Zz4%3D" alt="Experience"/>
 </p>
 
 <p align="center">
-  <a href="https://khoshghalb2c.ir"><img src="https://img.shields.io/badge/Portfolio-khoshghalb2c.ir-0A3EB5?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/></a>
-  <a href="https://www.linkedin.com/in/khoshghalb2c"><img src="https://img.shields.io/badge/LinkedIn-khoshghalb2c-0A66C2?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0iI2ZmZiI%2BPGNpcmNsZSBjeD0iNC41IiBjeT0iNC41IiByPSIyLjUiLz48cmVjdCB4PSIyIiB5PSI5IiB3aWR0aD0iNSIgaGVpZ2h0PSIxMyIvPjxwYXRoIGQ9Ik05LjUgOUgxNHYxLjlDMTQuOCA5LjYgMTYuNCA4LjYgMTguNCA4LjZDMjEuOSA4LjYgMjIuNSAxMC45IDIyLjUgMTRWMjJIMTcuNVYxNUMxNy41IDEzLjYgMTcuMiAxMi42IDE1LjggMTIuNkMxNC4zIDEyLjYgMTQgMTMuOCAxNCAxNS4yVjIySDkuNVoiLz48L3N2Zz4%3D" alt="LinkedIn"/></a>
-  <a href="mailto:khoshghalb2c@gmail.com"><img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-  <a href="https://stackoverflow.com/users/17150924"><img src="https://img.shields.io/badge/StackOverflow-Profile-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white" alt="StackOverflow"/></a>
+  <a href="https://www.linkedin.com/in/khoshghalb2c"><img src="https://skillicons.dev/icons?i=linkedin" width="48" height="48" alt="LinkedIn" title="LinkedIn"/></a>
+  <a href="https://github.com/khoshghalb2c"><img src="https://skillicons.dev/icons?i=github" width="48" height="48" alt="GitHub" title="GitHub"/></a>
+  <a href="https://stackoverflow.com/users/17150924"><img src="https://skillicons.dev/icons?i=stackoverflow" width="48" height="48" alt="StackOverflow" title="StackOverflow"/></a>
+  <a href="mailto:khoshghalb2c@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="48" height="48" alt="Email" title="Email"/></a>
+</p>
+
+<p align="center">
+  <a href="https://khoshghalb2c.ir"><img src="https://img.shields.io/badge/Portfolio-khoshghalb2c.ir-0A3EB5?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjZmZmIiBzdHJva2Utd2lkdGg9IjIiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCI%2BPGNpcmNsZSBjeD0iMTIiIGN5PSIxMiIgcj0iOSIvPjxwYXRoIGQ9Ik0zIDEyaDE4TTEyIDNjMyAzIDMgMTUgMCAxOE0xMiAzYy0zIDMtMyAxNSAwIDE4Ii8%2BPC9zdmc%2B" alt="Portfolio"/></a>
   <a href="https://quera.org/profile/khoshghalb2c"><img src="https://img.shields.io/badge/Quera-khoshghalb2c-2E7D32?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjZmZmIiBzdHJva2Utd2lkdGg9IjIuNiIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIj48Y2lyY2xlIGN4PSIxMSIgY3k9IjExIiByPSI3Ii8%2BPHBhdGggZD0iTTE2IDE2bDUgNSIvPjwvc3ZnPg%3D%3D" alt="Quera"/></a>
 </p>
 
@@ -67,13 +71,13 @@ My vision is to build practical software that makes users' lives easier and more
 ### 💻 Other Languages &amp; Runtimes
 
 <p>
-  <img src="https://skillicons.dev/icons?i=cpp,python,nodejs" alt="C++, Python, Node.js"/>
+  <img src="https://skillicons.dev/icons?i=cpp,py,nodejs" alt="C++, Python, Node.js"/>
 </p>
 
 ### 🛠️ Development Tools
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,androidstudio" alt="Git, GitHub, Android Studio"/>
+  <img src="https://skillicons.dev/icons?i=git,github" alt="Git, GitHub"/>
 </p>
 
 ---
@@ -98,7 +102,7 @@ My vision is to build practical software that makes users' lives easier and more
 <p align="center">
   <img src="https://img.shields.io/badge/Installs-3.8k%2B-0A3EB5?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjZmZmIiBzdHJva2Utd2lkdGg9IjIiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCI%2BPHBhdGggZD0iTTEyIDN2MTJNNyAxMGw1IDUgNS01TTQgMjBoMTYiLz48L3N2Zz4%3D" alt="Installs"/>
   <img src="https://img.shields.io/badge/Rating-4%2F5-F9A825?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0iI2ZmZiI%2BPHBvbHlnb24gcG9pbnRzPSIxMiwyIDE1LjEsOC42IDIyLDkuMyAxNi44LDE0IDE4LjIsMjEgMTIsMTcuNSA1LjgsMjEgNy4yLDE0IDIsOS4zIDguOSw4LjYiLz48L3N2Zz4%3D" alt="Rating"/>
-  <img src="https://img.shields.io/badge/Category-Finance-455A64?style=for-the-badge" alt="Category"/>
+  <img src="https://img.shields.io/badge/Category-Finance-455A64?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjZmZmIiBzdHJva2Utd2lkdGg9IjIiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCI%2BPHJlY3QgeD0iMyIgeT0iNiIgd2lkdGg9IjE4IiBoZWlnaHQ9IjE0IiByeD0iMiIvPjxwYXRoIGQ9Ik0zIDEwaDE4TTE2IDE1aDIiLz48L3N2Zz4%3D" alt="Category"/>
 </p>
 
 <p align="center">
@@ -150,11 +154,18 @@ Shahid Montazeri Technical and Vocational University, Mashhad<br>
 I'm open to collaboration, new ideas, and interesting Android and web projects.
 
 <p>
-  <a href="https://khoshghalb2c.ir"><img src="https://img.shields.io/badge/Portfolio-khoshghalb2c.ir-0A3EB5?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/></a>
-  <a href="https://www.linkedin.com/in/khoshghalb2c"><img src="https://img.shields.io/badge/LinkedIn-khoshghalb2c-0A66C2?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0iI2ZmZiI%2BPGNpcmNsZSBjeD0iNC41IiBjeT0iNC41IiByPSIyLjUiLz48cmVjdCB4PSIyIiB5PSI5IiB3aWR0aD0iNSIgaGVpZ2h0PSIxMyIvPjxwYXRoIGQ9Ik05LjUgOUgxNHYxLjlDMTQuOCA5LjYgMTYuNCA4LjYgMTguNCA4LjZDMjEuOSA4LjYgMjIuNSAxMC45IDIyLjUgMTRWMjJIMTcuNVYxNUMxNy41IDEzLjYgMTcuMiAxMi42IDE1LjggMTIuNkMxNC4zIDEyLjYgMTQgMTMuOCAxNCAxNS4yVjIySDkuNVoiLz48L3N2Zz4%3D" alt="LinkedIn"/></a>
-  <a href="mailto:khoshghalb2c@gmail.com"><img src="https://img.shields.io/badge/Email-khoshghalb2c%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-  <a href="https://github.com/khoshghalb2c"><img src="https://img.shields.io/badge/GitHub-khoshghalb2c-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+  <a href="https://www.linkedin.com/in/khoshghalb2c"><img src="https://skillicons.dev/icons?i=linkedin" width="48" height="48" alt="LinkedIn" title="LinkedIn"/></a>
+  <a href="https://github.com/khoshghalb2c"><img src="https://skillicons.dev/icons?i=github" width="48" height="48" alt="GitHub" title="GitHub"/></a>
+  <a href="https://stackoverflow.com/users/17150924"><img src="https://skillicons.dev/icons?i=stackoverflow" width="48" height="48" alt="StackOverflow" title="StackOverflow"/></a>
+  <a href="mailto:khoshghalb2c@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="48" height="48" alt="Email" title="Email"/></a>
 </p>
+
+<p>
+  <a href="https://khoshghalb2c.ir"><img src="https://img.shields.io/badge/Portfolio-khoshghalb2c.ir-0A3EB5?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjZmZmIiBzdHJva2Utd2lkdGg9IjIiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCI%2BPGNpcmNsZSBjeD0iMTIiIGN5PSIxMiIgcj0iOSIvPjxwYXRoIGQ9Ik0zIDEyaDE4TTEyIDNjMyAzIDMgMTUgMCAxOE0xMiAzYy0zIDMtMyAxNSAwIDE4Ii8%2BPC9zdmc%2B" alt="Portfolio"/></a>
+  <a href="https://quera.org/profile/khoshghalb2c"><img src="https://img.shields.io/badge/Quera-khoshghalb2c-2E7D32?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjZmZmIiBzdHJva2Utd2lkdGg9IjIuNiIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIj48Y2lyY2xlIGN4PSIxMSIgY3k9IjExIiByPSI3Ii8%2BPHBhdGggZD0iTTE2IDE2bDUgNSIvPjwvc3ZnPg%3D%3D" alt="Quera"/></a>
+</p>
+
+📧 khoshghalb2c@gmail.com
 
 <p align="center">
   <i>Building practical, elegant, and efficient software, one release at a time. 🚀</i>
